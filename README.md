@@ -4,11 +4,11 @@ Este projeto foi realizado na imersão front-end da alura
 
 ## Demonstração
 
-- [https://guilherme-spotify.netlify.app](https://guilherme-spotify.netlify.app)
+- [https://guilherme-spotify-v2.netlify.app](https://guilherme-spotify-v2.netlify.app)
 
 ## Screenshots
 
-<a href="https://ibb.co/C09KVmf"><img src="https://i.ibb.co/Lpgd9Y3/imagem-2024-02-18-235143660.png" alt="imagem-2024-02-18-235143660" border="0"></a>
+<a href="https://ibb.co/Hd5WxZ7"><img src="https://i.ibb.co/rsDCc9k/imagem-2024-02-19-003506909.png" alt="imagem-2024-02-19-003506909" border="0"></a>
 
 ## Stack utilizada
 
